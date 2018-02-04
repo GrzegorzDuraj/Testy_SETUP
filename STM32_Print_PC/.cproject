@@ -170,7 +170,7 @@
 								</option>
 								
 								<option id="gnu.c.compiler.option.include.files.292830969" name="Include files (-include)" superClass="gnu.c.compiler.option.include.files" useByScannerDiscovery="false" valueType="includeFiles">
-									<listOptionValue builtIn="false" value="${ProjDirPath}//tmp/tmp8U9TaS/mbed_config.h"/>
+									<listOptionValue builtIn="false" value="${ProjDirPath}/mbed_config.h"/>
 								</option>
 								
 								
@@ -356,7 +356,7 @@
 								</option>
 								
 								<option id="gnu.cpp.compiler.option.include.files.894606738" name="Include files (-include)" superClass="gnu.cpp.compiler.option.include.files" useByScannerDiscovery="false" valueType="includeFiles">
-									<listOptionValue builtIn="false" value="${ProjDirPath}//tmp/tmp8U9TaS/mbed_config.h"/>
+									<listOptionValue builtIn="false" value="${ProjDirPath}/mbed_config.h"/>
 								</option>
 								
 								
@@ -841,7 +841,7 @@
 								</option>
 								
 								<option id="gnu.c.compiler.option.include.files.008401342" name="Include files (-include)" superClass="gnu.c.compiler.option.include.files" useByScannerDiscovery="false" valueType="includeFiles">
-									<listOptionValue builtIn="false" value="${ProjDirPath}//tmp/tmp8U9TaS/mbed_config.h"/>
+									<listOptionValue builtIn="false" value="${ProjDirPath}/mbed_config.h"/>
 								</option>
 								
 								
@@ -1027,7 +1027,7 @@
 								</option>
 								
 								<option id="gnu.cpp.compiler.option.include.files.355801717" name="Include files (-include)" superClass="gnu.cpp.compiler.option.include.files" useByScannerDiscovery="false" valueType="includeFiles">
-									<listOptionValue builtIn="false" value="${ProjDirPath}//tmp/tmp8U9TaS/mbed_config.h"/>
+									<listOptionValue builtIn="false" value="${ProjDirPath}/mbed_config.h"/>
 								</option>
 								
 								
